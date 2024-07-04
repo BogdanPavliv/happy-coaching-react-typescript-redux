@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {accordionData} from "../../utils/accordion.ts";
 
 import Accordion from "../../components/Accordion/Accordion";

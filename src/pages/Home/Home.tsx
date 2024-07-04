@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from "../../components/Button/Button";
 import section_home_img_1 from "../../img/section-home/section-home-img-1.jpg";
 import waves_img from "../../img/section-home/waves.svg";
@@ -9,7 +8,7 @@ import consultation_img from "../../img/section-can-help/consultation.svg";
 import group_img from "../../img/section-can-help/group.svg";
 import star_img from "../../img/section-testimonials/star.svg";
 
-import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
+import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
 import {dataTimonials} from "../../utils/testimonials.ts";

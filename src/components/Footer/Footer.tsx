@@ -8,10 +8,7 @@ import linkedin_img from "../../img/footer/linkedin.svg";
 import facebook_img from "../../img/footer/facebook.svg";
 import website_img from "../../img/footer/website.svg";
 
-
-type Props = {}
-
-export const Footer = (props: Props) => {
+export const Footer = () => {
   return (
     <div className='footer'>
         <div className="container">
